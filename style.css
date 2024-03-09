@@ -1,0 +1,19 @@
+body
+{
+    background-color:blue;
+}
+
+#score {
+    font-size: 30px;
+    float:left;
+}
+
+#timer {
+    font-size: 30px;
+    float: right;
+}
+
+#sketch {
+    color: red;
+    font-size: 30px;
+}
